@@ -1,0 +1,16 @@
+Age,Gender,MonthlyIncome,YearsAtCompany,Attrition,Department,JobRole
+25,Male,4000,1,Yes,Sales,Sales Executive
+30,Female,5000,3,No,HR,HR Specialist
+45,Male,8000,10,No,IT,Developer
+29,Female,4200,2,Yes,Sales,Sales Executive
+41,Male,7500,8,No,IT,Developer
+35,Female,6200,6,No,HR,HR Manager
+28,Female,4100,1,Yes,Sales,Sales Executive
+50,Male,10000,15,No,IT,Senior Developer
+38,Female,6900,7,No,HR,HR Manager
+31,Male,5600,5,Yes,Sales,Sales Executive
+27,Female,4500,2,No,Sales,Sales Executive
+37,Female,6500,5,Yes,IT,Developer
+43,Male,8000,8,No,HR,HR Manager
+45,Female,8500,2,No,Sales,Sales Executive
+50,Female,12000,16,No,IT,Senior Developer
