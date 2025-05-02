@@ -10,9 +10,13 @@ Each project is organized in its own subfolder and includes relevant files, docu
 - **Dice Simulator**
 📂 `PythonProjects/DiceSimulator
 
+- **To Do List - Console App**
+📂 `PythonProjects/todo
+
+
 ### 📊 Power BI
 - **Uber Trip Analysis Dashboard**
-📂 `PowerBI Projects/Uber Live Project
+📂 `PowerBIProjects/UberLiveProject
 
 ## 📝 Disclaimer
 Some projects are inspired by tutorials and online resources and are used for **educational and learning purposes only**. Credit is given where applicable.
